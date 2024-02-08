@@ -1,6 +1,6 @@
 {
   "name": "infinit",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "A cross-platform application for Salesforce developers, analysts, and release managers operate and collaborate on their next feature, project, or release, all that from within a single platform.",
   "main": "main.js",
   "scripts": {
@@ -21,7 +21,7 @@
     "Comparison",
     "Retrieval"
   ],
-  "author": "infinit",
+  "author": "infinit LLC.",
   "license": "CC-BY-4.0",
   "dependencies": {
     "axios": "^1.6.5",
@@ -30,7 +30,6 @@
     "deep-equal": "^2.2.3",
     "diff": "^5.1.0",
     "electron-log": "^5.0.3",
-    "electron-store": "^8.1.0",
     "electron-updater": "6.1.7",
     "express": "^4.18.2",
     "fast-xml-parser": "^4.3.3",
@@ -52,7 +51,7 @@
   "build": {
     "appId": "com.daas.infinit",
     "afterSign": "./build/notarize.js",
-    "copyright": "Copyright © 2024 infinit",
+    "copyright": "Copyright © 2024 infinit LLC.",
     "mac": {
       "category": "public.app-category.developer-tools",
       "target": [
