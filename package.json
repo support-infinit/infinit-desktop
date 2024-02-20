@@ -1,6 +1,6 @@
 {
   "name": "infinit",
-  "version": "2.0.11",
+  "version": "2.0.12",
   "description": "A cross-platform application for Salesforce developers, analysts, and release managers operate and collaborate on their next feature, project, or release, all that from within a single platform.",
   "main": "main.js",
   "scripts": {
