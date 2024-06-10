@@ -7,3 +7,4 @@ web/*
 main.js
 package-lock.json
 preload.js
+cli.js
