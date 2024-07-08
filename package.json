@@ -1,6 +1,6 @@
 {
   "name": "infinit",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "description": "A cross-platform application for Salesforce developers, analysts, and release managers operate and collaborate on their next feature, project, or release, all that from within a single platform.",
   "main": "main.js",
   "bin": {
@@ -56,6 +56,12 @@
     "appId": "com.daas.infinit",
     "afterSign": "./build/notarize.js",
     "copyright": "Copyright © 2024 infinit LLC.",
+    "protocols": {
+      "name": "infinit",
+      "schemes": [
+        "infinit"
+      ]
+    },
     "mac": {
       "category": "public.app-category.developer-tools",
       "target": [
