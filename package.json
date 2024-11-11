@@ -1,6 +1,6 @@
 {
   "name": "infinit",
-  "version": "2.1.7",
+  "version": "2.1.8",
   "description": "A cross-platform application for Salesforce developers, analysts, and release managers operate and collaborate on their next feature, project, or release, all that from within a single platform.",
   "main": "main.js",
   "bin": {
@@ -34,7 +34,7 @@
     "diff": "^5.2.0",
     "electron-log": "^5.1.5",
     "electron-updater": "6.3.0",
-    "express": "^4.19.2",
+    "express": "^4.21.1",
     "fast-xml-parser": "^4.4.1",
     "faye": "^1.4.0",
     "fix-path": "^4.0.0",
