@@ -50,11 +50,10 @@
   "devDependencies": {
     "@electron/notarize": "^2.5.0",
     "electron": "33.0.0",
-    "electron-builder": "^25.1.8"
+    "electron-builder": "^24.13.3"
   },
   "build": {
     "appId": "com.daas.infinit",
-    "afterSign": "./build/notarize.js",
     "copyright": "Copyright © 2024 infinit LLC.",
     "protocols": {
       "name": "infinit",
