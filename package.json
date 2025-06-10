@@ -54,7 +54,8 @@
   },
   "build": {
     "appId": "com.daas.infinit",
-    "copyright": "Copyright © 2024 infinit LLC.",
+    "copyright": "Copyright © 2025 infinit LLC.",
+    "afterSign": "./build/notarize.js",
     "protocols": {
       "name": "infinit",
       "schemes": [
